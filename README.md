@@ -12,6 +12,8 @@ Here are the steps that you need to take in order to run this application on you
   <li>Once your docker instance is running on your device, open the terminal inside this folder where you have cloned the repository.</li>
   <li>Change the directory to 'multi-container-docker-application' and write the command below to run the application:</li>
   ```
-    docker-compose -f docker-compose-dev.yml up --build
+  
+  docker-compose -f docker-compose-dev.yml up --build
+  
   ```
 </ol>
